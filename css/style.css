@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 80px;
+    width: 100%;
+    background-color: brown;
+
+}
+.parte-1{
+    height: 600px;
+    width: 100%;
+    background-color: aqua;
+}
