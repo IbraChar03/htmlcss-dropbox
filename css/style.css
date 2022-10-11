@@ -23,6 +23,7 @@ header{
 
 .head{
     display: flex;
+    align-items: center;
 }
 .scr{
     margin-right: 20px;
@@ -60,7 +61,7 @@ header{
 }
 .quad{
    background-color: #0061fe; 
-    padding: 0px 10px;
+    padding: 10px 10px;
     color: white;
 
 }
@@ -115,14 +116,14 @@ header{
     font-size: 18px;
 }
 .quad2{
-    height: 50px;
-    width: 280px;
+    /* height: 50px; */
+    width: 280px; 
     background-color: #0061fe;
     text-align: center;
     color: white;
     margin-top: 30px;
     font-size: 20px;
-    padding-top: 10px;
+    padding:10px 10px;
  
    
 }
@@ -180,14 +181,14 @@ header{
     
 }
 .quad4{
-     height: 40px; 
+     /* height: 40px;   */
     width: 280px;
     background-color: #0061fe; 
     text-align: center;
     color: white;
     font-size: 18px;
-    padding-top: 5px;
-    padding: auto;
+    padding:10px 10px;
+    
     
    
     
@@ -292,14 +293,14 @@ header{
     margin-right: 50px;
 }
 .quad3{
-    height: 50px;
+    /* height: 50px; */
     width: 280px;
     background-color: #0061fe;
     text-align: center;
     color: white;
     margin-top: 30px;
     font-size: 18px;
-    padding-top: 10px;
+    padding:10px 10px;
     margin-bottom: 30px;
 }
 .link2{
@@ -355,7 +356,7 @@ header{
     margin-bottom: 20px;
 }
 .quad5{
-    height: 50px;
+    /* height: 50px; */
     width: 180px;
     background-color: white;
     border: 1px solid #626262;
@@ -363,7 +364,7 @@ header{
     color: #626262;
    margin-top: 30px;
     font-size: 18px;
-    padding-top: 10px;
+    padding: 10px 10px;
     
     
 }
@@ -596,15 +597,14 @@ header{
      /* background-color: blue;  */
 }
 .quad6{
-    height: 50px;
+    /* height: 50px; */
     width: 300px;
     background-color: white;
     border: 1px solid #626262;
     text-align: center;
     color: #626262;
-   
-    font-size: 18px;
-    padding-top: 10px;
+   font-size: 18px;
+    padding:10px 10px;
 }
 .parte-4{
     
