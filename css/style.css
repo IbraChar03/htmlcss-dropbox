@@ -7,7 +7,7 @@ body {
     font-family: 'Open Sans';
 }
 header{
-     /* height: 80px;   */
+     height: 80px;   
     width: 100%;
     background-color: white; 
     position: fixed;
@@ -15,8 +15,8 @@ header{
     left: 0;
     display: flex;
     justify-content: space-between;
-     /* align-items: center; */
-     padding-top: 25px;  
+     align-items: center; 
+     
     
     
 }
@@ -59,15 +59,15 @@ header{
     margin-left: 10px;
 }
 .quad{
-    height: 30px;
-    width: 60px;
-     background-color: #0061fe; 
-     text-align: center; 
-    
+   background-color: #0061fe; 
+    padding: 0px 10px;
     color: white;
-   margin-bottom: 10px;
-   margin-right: 10px;
-   
+
+}
+
+
+.links3{
+    text-decoration: none;
 }
 .parte-1{
     margin-top: 80px; 
@@ -565,15 +565,10 @@ header{
 .scritta{
     width: 60%;
     height: 100%;
-    /* background-color: blueviolet; */
+     /* background-color: blueviolet;  */
     padding-top: 80px;
 }
-.box-scritta{
-    width: 70%;
-    height: 80px;
-    margin: auto;
-    /* background-color: blue; */
-}
+
 .text-v{
     font-size: 35px;
     color: #630436;
@@ -581,21 +576,21 @@ header{
 }
 .button{
     width: 40%;
-    /* background-color: bisque; */
+     /* background-color: bisque;  */
     height: 100%;
     padding-top: 80px;
 }
 .box-scritta{
     width: 70%;
-    height: 80px;
+    height: 150px;
     margin: auto;
-    /* background-color: blue; */
-}
+     /* background-color: blue;  */
+} 
 .box-button{
     width: 70%;
     height: 80px;
     margin: auto;
-    /* background-color: blue; */
+     /* background-color: blue;  */
 }
 .quad6{
     height: 50px;
