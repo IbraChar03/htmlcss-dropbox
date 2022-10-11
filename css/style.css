@@ -654,4 +654,12 @@ li{
 .color{
     color: white;
 }
+.links{
+    text-decoration: none;
+    color: black;
+}
+.links2{
+    text-decoration: none;
+    color: white;
+}
 
