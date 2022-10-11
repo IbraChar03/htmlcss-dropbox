@@ -7,7 +7,7 @@ body {
     font-family: 'Open Sans';
 }
 header{
-    height: 80px;
+    /* height: 80px;  */
     width: 100%;
     background-color: white; 
     position: fixed;
@@ -23,9 +23,6 @@ header{
 
 .head{
     display: flex;
-    
-    
-   
 }
 .scr{
     margin-right: 20px;
@@ -48,21 +45,21 @@ header{
 }
 .parte-1{
     margin-top: 80px;
-    height: 900px;
+     /* height: 900px;  */
     width: 100%;
      background-color: #b4c8e1;
     padding-top: 80px;
 }
 .cont{
     width: 70%;
-    height: 720px;
+    /* height: 720px; */
     margin: auto;
     /* background-color: cadetblue; */
     
 }
 .box-t{
     width: 100%; 
-    height: 200px;
+    /* height: 200px; */
     /* background-color: blue; */
     margin-bottom: 80px;
    
@@ -81,7 +78,7 @@ header{
 
 .prova{
     width: 30%;
-    height: 520px;
+    /* height: 520px; */
     
     /* background-color: azure; */
     
@@ -109,20 +106,21 @@ header{
 .annulla{
     margin-top: 40px;
     font-size: 18px;
-    margin-bottom: 150px;
+    margin-bottom: 140px;
 }
 .img{
     width: 70%;
-    height: 520px;
+    /* height: 520px; */
 }
 .jumbo{
     width: 900px;
-    height: 600px;
+     /* height: 500px;  */
+    
 
 }
 .parte-2{
     
-    height: 4100px;
+    /* height: 4100px; */
     width: 100%;
     /* background-color: chartreuse; */
     padding-top: 150px;
@@ -130,35 +128,39 @@ header{
 }
 .piano{
     width: 60%;
-    height: 300px;
+    /* height: 300px;  */
     border: 1px solid #d3d3d3;
     margin: auto;
     margin-bottom: 80px;
+    padding-bottom: 30px;
     
 }
 .piano-2{
     width: 60%;
-    height: 300px;
+    /* height: 300px;  */
     margin: auto;
     padding-top: 70px;
+    padding-bottom: 60px;
 }
 .box2{
     width: 100%;
-    height: 100px;
+    /* height: 100px; */
     /* background-color: brown; */
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 30px;
+    padding: 30px 30px;
+    
 }
 .quad4{
-    height: 40px;
+     height: 40px; 
     width: 280px;
     background-color: #0061fe; 
     text-align: center;
     color: white;
     font-size: 18px;
     padding-top: 5px;
+    padding: auto;
     
    
     
@@ -168,7 +170,7 @@ header{
     margin-bottom: 50px;
 }
 .box3{
-    height: 50px;
+    /* height: 50px; */
     width: 700px;
     /* background-color: blueviolet; */
     margin-left: 30px;
@@ -203,7 +205,7 @@ header{
 
 .cont3{
     width: 60%;
-    height: 1000px;
+    /* height: 1000px; */
     margin: auto;
     /* background-color: brown; */
     display: flex;
@@ -213,9 +215,10 @@ header{
 }
 .box1{
     width: 30%;
-    height: 1000px;
+    /* height: 1000px; */
     /* background-color: cornflowerblue; */
     border: 1px solid #d3d3d3;
+    padding-bottom: 30px;
 }
 .box-icon{
     height: 40px;
@@ -289,7 +292,7 @@ header{
 
 .cont4{
     width: 60%;
-    height: 600px;
+     height: 600px; 
     margin: auto;
     /* background-color: brown; */
     display: flex;
@@ -299,8 +302,8 @@ header{
 }
 .img2{
     width: 60%;
-    height: 100%;
-    /* background-color: blue; */
+    /* height: 600px; */
+     /* background-color: blue;  */
     background-image: url(../img/partner.png) ;
     background-size: cover;
     background-repeat: no-repeat;
@@ -342,7 +345,7 @@ header{
 }
 .cont5{
     width: 60%;
-    height: 1100px;
+    /* height: 1100px; */
     margin: auto;
     /* background-color: brown; */
     display: flex;
@@ -353,7 +356,7 @@ header{
     margin-bottom: 100px;
 }
 .text2{
-    height: 80px;
+    /* height: 80px; */
     width: 60%;
     /* background-color: aquamarine; */
     margin: auto;
@@ -363,12 +366,13 @@ header{
     font-size: 40px;
 }
 .img3{
-    height: 500px;
+    /* height: 500px; */
     width: 30%;
     /* background-color: blueviolet; */
+    padding-top: 30px;
 }
 .img-cont5{
-    height: 250px;
+    /* height: 250px; */
     width: 100%;
 }
 .text-img{
@@ -380,13 +384,13 @@ header{
   
 .team{
     width: 60%;
-    height: 300px;
+    /* height: 300px; */
     /* background-color: cornflowerblue; */
     margin: auto;
     
 }
 .box-team{
-    height: 100%;
+    /* height: 100%; */
     width: 60%;
     /* background-color: brown; */
 }
@@ -398,21 +402,22 @@ header{
 }
 .parte-3{
     
-    height: 1000px;
+     height: 1000px; 
     width: 100%;
-     background-color: #b4c8e1;; 
+      background-color: #b4c8e1;;  
     margin-bottom: 100px;
     
     
 }
 .loghi{
     width: 100%;
-    height: 600px;
-    background-color: burlywood;
+     height: 600px;  
+    /* background-color: burlywood; */
     margin-top: 200px;
     margin-bottom: 50px;
     display: flex;
     justify-content: space-around;
+    
 }
 .box-loghi{
     width: 33.33%;
@@ -524,8 +529,8 @@ header{
 }
 .drop{
     width: 60%;
-    height: 300px;
-    /* background-color: brown; */
+      height: 300px;  
+    background-color: #b4c8e1;  
     margin: auto;
     display: flex;
 }
@@ -599,14 +604,14 @@ header{
 }
 footer{
     width: 100%;
-    height: 600px;
+    /* height: 600px; */
     background-color: black;
     padding-top: 100px;
     margin-top: 150px;
 }
 .row{
     width: 70%;
-    height: 300px;
+    /* height: 300px; */
     /* background-color: cadetblue; */
     margin: auto;
     display: flex;
@@ -615,7 +620,7 @@ footer{
    
 }
 .col{
-    height: 300px;
+    /* height: 300px; */
     width: 15%;
     /* background-color: brown; */
     color: white;
@@ -628,9 +633,10 @@ ul{
 }
 .it{
     width: 70%;
-    height: 100px;
-    /* background-color: blueviolet; */
+    /* height: 100px; */
+    /* background-color: blueviolet;  */
     margin: auto;
+    padding-bottom: 30px;
 }
 
 .lin{
