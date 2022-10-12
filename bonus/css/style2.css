@@ -696,6 +696,6 @@ li{
     padding-top: 20px;
     display: none;
 }
-.dom:active .risp{
+.dom:hover .risp{
     display: block;
 }
