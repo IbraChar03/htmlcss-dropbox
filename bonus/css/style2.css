@@ -699,3 +699,13 @@ li{
 .dom:hover .risp{
     display: block;
 }
+li:hover{
+   text-decoration: underline;
+   color: white;
+}
+.acq:hover{
+    text-decoration: none;
+}
+.prv:hover{
+    opacity: 0.7;
+}
