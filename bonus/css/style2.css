@@ -207,7 +207,7 @@ header{
     font-size: 50px;
     margin-bottom: 60px;
 }
-.cerchio2{
+ .cerchio2{
     display: inline-block;
     width: 24px;
     height: 24px;
@@ -215,16 +215,16 @@ header{
     border: 1px solid #626262;
     background-color: white;
     vertical-align: middle;
-}
+}  
 
 .cerchio{
+    border: 5px solid #0061fe;
+    border-radius: 24px;
+    height:24px;
+    width:24px;
     display: inline-block;
-    width: 24px;
-    height: 24px;
-    border-radius: 50%;
-    border: 1px solid #626262;
-    background-color: #0061fe;
-    vertical-align: middle;
+    position: relative;
+    top: 8px;
 }
 .fatt{
     margin-right: 20px;
@@ -711,3 +711,4 @@ li:hover{
 .prv:hover{
     opacity: 0.7;
 }
+
