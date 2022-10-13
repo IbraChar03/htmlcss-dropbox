@@ -105,13 +105,13 @@ header{
     display: flex;
 }
 
-.prova{
+/* .prova{
     width: 30%;
-    /* height: 520px; */
+     height: 520px; 
     
-    /* background-color: azure; */
+     background-color: azure; 
     
-}
+} */
 .parag{
     text-align: left;
     font-size: 18px;
