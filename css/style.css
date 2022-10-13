@@ -43,7 +43,7 @@ header{
 .dropdown-content a {
     color: black;
      padding: 12px 16px; 
-    display: block;
+     display: block; 
 } 
 .dropdown-content a:hover {
     background-color: #f1f1f1
@@ -59,7 +59,7 @@ header{
 }
 .quad{
    background-color: #0061fe; 
-    padding: 10px 10px;
+    padding: 5px 10px;
     color: white;
 
 }
@@ -68,7 +68,7 @@ header{
 .links3{
     text-decoration: none;
 }
-.parte-1{
+.jumbotron{
     margin-top: 80px; 
      /* height: 900px;  */
     width: 100%;
@@ -118,13 +118,13 @@ header{
 }
 .quad2{
     /* height: 50px; */
-    width: 280px; 
+     width: 280px;  
     background-color: #0061fe;
     text-align: center;
     color: white;
     margin-top: 30px;
     font-size: 20px;
-    padding:10px 10px;
+     padding:10px 0px; 
  
    
 }
@@ -142,7 +142,7 @@ header{
     /* height: 520px; */
 }
 .jumbo{
-    width: 900px;
+    width: 1000px;
      /* height: 500px;  */
     
 
@@ -272,6 +272,9 @@ header{
     text-align: center;
     margin: 10px 0;
 }
+.m-right{
+    margin-right: 5px;
+}
 .icon{
     margin-right: 5px;
 }
@@ -295,14 +298,15 @@ header{
 }
 .quad3{
     /* height: 50px; */
-    width: 280px;
+    /* width: 280px; */
     background-color: #0061fe;
     text-align: center;
     color: white;
     margin-top: 30px;
     font-size: 18px;
-    padding:10px 10px;
+    padding:10px 0px;
     margin-bottom: 30px;
+    margin-right: 30px;
 }
 .link2{
     margin-bottom: 30px;
@@ -358,7 +362,7 @@ header{
 }
 .quad5{
     /* height: 50px; */
-    width: 180px;
+     width: 180px; 
     background-color: white;
     border: 1px solid #626262;
     text-align: center;
@@ -599,7 +603,7 @@ header{
 }
 .quad6{
     /* height: 50px; */
-    width: 300px;
+    /* width: 300px; */
     background-color: white;
     border: 1px solid #626262;
     text-align: center;
